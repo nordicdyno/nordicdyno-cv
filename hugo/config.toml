@@ -1,7 +1,7 @@
-baseURL = "http://nordicdyno.github.io/"
+baseURL = "https://cv.nordicdyno.info/"
 languageCode = "en-us"
 title = "My CV"
-publishDir = "../public/"
+publishDir = "../docs/"
 
 theme = "orbit"
 
